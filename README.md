@@ -1,5 +1,3 @@
-# Hi there 👋
-
 I am a passionate **Full Stack Engineer** with a strong focus on building scalable, performant web applications. I have hands-on experience with both front-end and back-end development, and I love solving problems using modern technologies and best practices.
 
 ### 💻 **What I Do:**
@@ -19,8 +17,14 @@ I am a passionate **Full Stack Engineer** with a strong focus on building scalab
 - **Cloud & Hosting:** AWS (EC2, S3, Lambda), Hetzner, DigitalOcean
 - **ERP Platforms** ERPNext
 
+- ## 📊 LeetCode Stats
 
-- 🌟 **LeetCode Profile:** [LeetCode - fsavio27](https://leetcode.com/u/fsavio27/)
+I'm actively solving problems on LeetCode to sharpen my problem-solving skills. Below are some of my LeetCode stats:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/fsavio27?theme=dark&font=changa)
+
+**LeetCode Profile:** [LeetCode - fsavio27](https://leetcode.com/u/fsavio27/)
+
 
 ### 🌐 **Connect with Me:**
 - **LinkedIn:** [LinkedIn - savio-fernando](https://www.linkedin.com/in/savio-fernando)
