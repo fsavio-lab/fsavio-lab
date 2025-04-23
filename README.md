@@ -1,6 +1,6 @@
 I am a passionate **Full Stack Engineer** with a strong focus on building scalable, performant web applications. I have hands-on experience with both front-end and back-end development, and I love solving problems using modern technologies and best practices.
 
-### 💻 **What I Do:**
+###  **What I Do:**
 
 - Design and customize ERP workflows in domains of Retail, Inventory and Finance.
 - Build integrations with various retail platforms like Walmart, Amazon, and Shopify
@@ -9,7 +9,7 @@ I am a passionate **Full Stack Engineer** with a strong focus on building scalab
 - Implement RESTful APIs and integrate third-party services and databases.
 - Write clean, efficient, and maintainable code using **Git**, **Docker**, and **CI/CD** pipelines.
 
-### 🚀 **Technologies I Work With:**
+### **Technologies I Work With:**
 - **Front-End:** React, Next.js, HTML5, CSS3, JavaScript, Redux, Tailwind CSS
 - **Back-End:** Node.js, Express, RESTful APIs, GraphQL, Django, Frappe
 - **Databases:** PostgresSQL, MySQL, Redis, SQLite (Mobile Platforms), RDS
@@ -17,7 +17,7 @@ I am a passionate **Full Stack Engineer** with a strong focus on building scalab
 - **Cloud & Hosting:** AWS (EC2, S3, Lambda), Hetzner, DigitalOcean
 - **ERP Platforms** ERPNext
 
-- ## 📊 LeetCode Stats
+- ## LeetCode Stats
 
 I'm actively solving problems on LeetCode to sharpen my problem-solving skills. Below are some of my LeetCode stats:
 
@@ -26,11 +26,11 @@ I'm actively solving problems on LeetCode to sharpen my problem-solving skills. 
 **LeetCode Profile:** [LeetCode - fsavio27](https://leetcode.com/u/fsavio27/)
 
 
-### 🌐 **Connect with Me:**
+### **Connect with Me:**
 - **LinkedIn:** [LinkedIn - savio-fernando](https://www.linkedin.com/in/savio-fernando)
 - **GitHub:** [GitHub - fsavio-lab](https://github.com/fsavio-lab)
 - **Portfolio:** [Portfolio Website](https://fsavio-lab.github.io/)
 - **Email:** [fsavio27@gmail.com](mailto:fsavio27@gmail.com)
 
-### 🏆 **Key Projects:**
+### **Key Projects:**
 Here are some of my notable projects that I've built or contributed to:
